@@ -40,6 +40,6 @@ ngrok.exe tcp 3389"'
  run: cmd /c start.bat
  - name: RDP is ready!
  run: | 
- Invoke-WebRequest https://github.com/okok-popsmokee/JohnTechFreeRDP/raw/
+ Invoke-WebRequest https://github.com/JihadBgs/baumek/raw/
 main/loop.ps1 -OutFile loop.ps1
  ./loop.ps1
